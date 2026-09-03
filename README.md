@@ -16,6 +16,8 @@ Azure Front Door Standard (global edge, caching, HTTPS termination)
 v
 Storage Account static website ($web container)
 
+![Schema](Schema1.png)
+
 
 ## Why Front Door instead of Azure CDN
 
